@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da aluna do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil de uma aluna do Dev em Dobro 😁
 
  <div>
    <a href="https://github.com/Sah-Beatriz">
